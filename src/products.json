@@ -1,0 +1,148 @@
+[
+  {
+    "id": 1,
+    "title": "Adidas X Speedflow.2 FG",
+    "description": "Ghete de fotbal Adidas X Speedflow.2 FG, concepute pentru viteza și agilitate pe teren.",
+    "price": 259,
+    "discountPercentage": 5,
+    "rating": 4.6,
+    "stock": 15,
+    "brand": "Adidas",
+    "category": "bute",
+    "thumbnail": "https://prosport.md/wp-content/uploads/2023/08/45197970.png",
+    "images": [
+      "https://prosport.md/wp-content/uploads/2023/08/39265741.png"
+
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Nike Vapor 15 FG Elite FG",
+    "description": "Ghete de fotbal Nike Vapor 15 FG Elite FG, pentru performanță și confort pe teren.",
+    "price": 299,
+    "discountPercentage": 0,
+    "rating": 4.8,
+    "stock": 20,
+    "brand": "Nike",
+    "category": "bute",
+    "thumbnail": "https://prosport.md/wp-content/uploads/2023/08/43761905.png",
+    "images": [
+      "https://prosport.md/wp-content/uploads/2023/08/90083694.png"
+
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Nike Zoom Mercurial Superfly 9",
+    "description": "Ghete de fotbal Nike Zoom Mercurial Superfly 9, pentru viteză și manevrabilitate pe teren.",
+    "price": 349,
+    "discountPercentage": 10,
+    "rating": 4.9,
+    "stock": 25,
+    "brand": "Nike",
+    "category": "bute",
+    "thumbnail": "https://prosport.md/wp-content/uploads/2024/03/prosport.md-nike-zoom-mercurial-vapor-15-elite-fg-dj4978-300-copy-3-2024-03-12_13-45-31_369004.jpg",
+    "images": [
+      "https://prosport.md/wp-content/uploads/2024/03/prosport.md-nike-zoom-mercurial-vapor-15-elite-fg-dj4978-300-copy-3-2024-03-12_13-45-31_369004.jpg"
+
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Nike Jr. Mercurial Superfly 9 Pro",
+    "description": "Ghete de fotbal Nike Jr. Mercurial Superfly 9 Pro, pentru tinerii fotbaliști aspiranți.",
+    "price": 199,
+    "discountPercentage": 0,
+    "rating": 4.7,
+    "stock": 20,
+    "brand": "Nike",
+    "category": "bute",
+    "thumbnail": "https://prosport.md/wp-content/uploads/2024/02/prosport.md-nike-jr-zoom-mercurial-superfly-9-academy-tf-do9794-400-jr-mercurial-superfly-9-pro-youn-1-2024-02-27_15-31-35_755602.png",
+    "images": [
+      "https://prosport.md/wp-content/uploads/2024/02/prosport.md-nike-jr-zoom-mercurial-superfly-9-academy-tf-do9794-400-jr-mercurial-superfly-9-pro-youn-1-2024-02-27_15-31-35_755602.png"
+
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Mercurial Vapor 14 Academy FG",
+    "description": "Ghete de fotbal Mercurial Vapor 14 Academy FG, pentru confort și control pe teren.",
+    "price": 149,
+    "discountPercentage": 0,
+    "rating": 4.5,
+    "stock": 30,
+    "brand": "Nike",
+    "category": "bute",
+    "thumbnail": "https://prosport.md/wp-content/uploads/2024/05/prosport.md-5-2024-05-10_18-17-31_864865-300x300.jpg",
+    "images": [
+      "https://prosport.md/wp-content/uploads/2024/05/prosport.md-5-2024-05-10_18-17-31_864865-300x300.jpg"
+
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Nike Phantom GX Pro (DD9465",
+    "description": "Ghete de fotbal Nike Phantom GX Pro (DD9465, pentru performanță și precizie pe teren.",
+    "price": 209,
+    "discountPercentage": 0,
+    "rating": 4.6,
+    "stock": 25,
+    "brand": "Nike",
+    "category": "bute",
+    "thumbnail": "https://prosport.md/wp-content/uploads/2024/05/prosport.md-nike-mercurial-vapor-14-pro-fg-dj2846-007-428-1-2024-05-10_18-08-31_467209.jpg",
+    "images": [
+      "https://prosport.md/wp-content/uploads/2024/05/prosport.md-nike-mercurial-vapor-14-pro-fg-dj2846-007-428-1-2024-05-10_18-08-31_467209.jpg"
+
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Nike Phantom GX Academy",
+    "description": "Ghete de fotbal Nike Phantom GX Academy, pentru performanță și confort pe teren.",
+    "price": 99,
+    "discountPercentage": 0,
+    "rating": 4.4,
+    "stock": 35,
+    "brand": "Nike",
+    "category": "bute",
+    "thumbnail": "https://prosport.md/wp-content/uploads/2024/05/prosport.md-nike-mercurial-vapor-15-club-fgmg-dj5963-146-DZ3484-800-2-2024-05-10_17-48-46_894768-300x375.jpg",
+    "images": [
+      "https://prosport.md/wp-content/uploads/2024/05/prosport.md-nike-mercurial-vapor-15-club-fgmg-dj5963-146-DZ3484-800-2-2024-05-10_17-48-46_894768-300x375.jpg"
+
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Nike Air Zoom Mercurial",
+    "description": "Ghete de fotbal Nike Air Zoom Mercurial, pentru viteză și agilitate pe teren.",
+    "price": 279,
+    "discountPercentage": 15,
+    "rating": 4.7,
+    "stock": 20,
+    "brand": "Nike",
+    "category": "bute",
+    "thumbnail": "https://prosport.md/wp-content/uploads/2024/05/prosport.md-nike-air-zoom-mercurial-superfly-9-elite-fg-do9342-694-4-2024-05-10_17-05-09_477260-300x300.jpg",
+    "images": [
+      "https://prosport.md/wp-content/uploads/2024/05/prosport.md-nike-air-zoom-mercurial-superfly-9-elite-fg-do9342-694-4-2024-05-10_17-05-09_477260-300x300.jpg"
+
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Nike Zoom Superfly 9 MDS Elite",
+    "description": "Ghete de fotbal Nike Zoom Superfly 9 MDS Elite, pentru performanță și viteză pe teren.",
+    "price": 399,
+    "discountPercentage": 20,
+    "rating": 4.9,
+    "stock": 15,
+    "brand": "Nike",
+    "category": "bute",
+    "thumbnail": "https://prosport.md/wp-content/uploads/2024/05/prosport.md-nike-gripknit-phantom-gx-elite-dynamic-fit-fg-se-fd3070-860-3-2024-05-10_14-21-52_468458-300x300.jpg",
+    "images": [
+      "https://prosport.md/wp-content/uploads/2024/05/prosport.md-nike-gripknit-phantom-gx-elite-dynamic-fit-fg-se-fd3070-860-3-2024-05-10_14-21-52_468458-300x300.jpg"
+    ]
+  }
+
+]
+
+
